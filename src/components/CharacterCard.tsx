@@ -11,8 +11,7 @@ interface Edge {
   effect: string;
 }
 
-interface Character {
-  id: string;
+export interface Character {
   name: string;
   gender: string;
   hindrances: Hindrance[];
