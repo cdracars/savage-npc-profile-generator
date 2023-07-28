@@ -1,5 +1,6 @@
 {
   "name": "savage-npc-profile-generator",
+  "homepage": "https://cdracars.github.io/savage-npc-profile-generator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
